@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/reset.css" />
+    <link rel="stylesheet" href="./assets/style.css" />
+    <title>Web API Quiz</title>
+</head>
+
+<body>
+    <!-- top of page; text at top-left & timer at top-right -->
+    <header>
+        <h3>Web API Quiz</h3>
+        <time>
+            <h4>Time left:&nbsp;</h4>
+            <h4 id="timer">100</h4>
+        </time>
+    </header>
+
+    <!-- background -->
+    <main>
+        <!-- quiz contents -->
+        <section id="card">
+            <!-- question prompts + "Start Quiz" button, which becomes multiple buttons -->
+            <h2 id="question">How good is your JavaScript?</h2>
+            <button class="start">Take a quiz to find out!</button>
+        </section>
+    </main>
+
+    <script src="./assets/script.js"></script>
+</body>
+</html>
