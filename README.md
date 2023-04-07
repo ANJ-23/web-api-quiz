@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Open the website (<>), press the "Take the quiz to find out!" button, and answer the multiple choice prompts as best and quickly as possible to achieve the highest score.
+Open the website (<https://anj-23.github.io/web-api-quiz/>), press the "Take the quiz to find out!" button, and answer the multiple choice prompts as best and quickly as possible to achieve the highest score.
 
 Once the quiz has finished, enter your username or initials into the input box, then press the "Submit" button. Your highest score should be displayed on the page.
 
